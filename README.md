@@ -8,12 +8,19 @@ A customizable word-guessing game built in Swift using UIKit. Users guess a hidd
 
 ## Features
 
-- Adjustable word length (number of letters per word)
-- Customizable number of guesses (rows)
-- Selectable themed word sets
-- “Alien Wordle” mode: word changes after each guess
-- Reset button to restart the game with current settings intact
-
+- Adjustable word length (number of letters in the goal word)
+- Customizable number of guesses (rows on the board)
+- Selectable themed word sets to pull the goal word from
+- “Alien mode” where the goal word changes after each guess
+- Fully functional on-screen keyboard for user input
+- Ability to delete individual letters while typing (without resetting the entire guess)
+- Real-time color-coded feedback:
+  - Green for correct letter in the correct position
+  - Yellow for correct letter in the wrong position
+  - Gray for incorrect letter
+- Color theme options to personalize the game’s appearance
+- Reset button to restart the game while keeping the current settings
+- Responsive UI that adapts to the chosen word length and number of guesses
 ---
 
 ## Tech Stack
