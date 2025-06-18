@@ -8,7 +8,6 @@ A customizable word-guessing game built in Swift using UIKit. Users guess a hidd
 
 ## Features
 
-**Features**
 - Adjustable word length (number of letters per word)
 - Customizable number of guesses (rows)
 - Selectable themed word sets
