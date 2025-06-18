@@ -8,13 +8,11 @@ A customizable word-guessing game built in Swift using UIKit. Users guess a hidd
 
 ## Features
 
-✅ **Required Features**
+✅ **Features**
 - Adjustable word length (number of letters per word)
 - Customizable number of guesses (rows)
 - Selectable themed word sets
 - “Alien Wordle” mode: word changes after each guess
-
-✅ **Optional Features**
 - Reset button to restart the game with current settings intact
 
 ---
